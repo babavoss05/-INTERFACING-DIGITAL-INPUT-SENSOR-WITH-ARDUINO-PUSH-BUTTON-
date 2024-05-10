@@ -1,5 +1,5 @@
 ### INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-### DATE : 16/02/2024
+### DATE : 26/02/2024
 ### NAME : Gokul																		             
 ### ROLLNUMBER : 212221220013
 ### DEPARTMENT: Information Technology
@@ -98,6 +98,9 @@ void loop()
 
 #### ON Condition:
 ![image](https://github.com/vasanthkumarch/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/103019882/b4b75552-2d7e-4acd-9c87-7807842ee9ba)
+
+### Result:
+Thus the interfacing was done successfully.
 
 
 
